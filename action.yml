@@ -1,6 +1,6 @@
 name: Quasar Electron Builder Action
 author: Vedaprakash M S
-description: GitHub Action for building and releasing Electron apps a modified version of the https://github.com/samuelmeuli/action-electron-builder specifically for Quasar framework
+description: GitHub Action for building and releasing Electron apps specifically for Quasar framework
 
 branding:
   icon: briefcase
