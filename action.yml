@@ -1,3 +1,7 @@
 name: Quasar Electron Builder Action
 author: Vedaprakash M S
 description: GitHub Action for building and releasing Electron apps
+
+branding:
+  icon: upload-cloud
+  color: blue
